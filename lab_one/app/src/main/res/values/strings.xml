@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab One Game</string>
+    <string name="throw_button">Бросить кубики</string>
+    <string name="game_rules">Бросай кубики \n Побеждает тот, кто первый наберёт 100 очков</string>
+    <string name="game_restart">Заново</string>
+    <string name="imgbotcube2">imgBotCube2</string>
+    <string name="imgbotcube1">imgBotCube1</string>
+    <string name="playercube1">playerCube1</string>
+    <string name="playercube2">playerCube2</string>
+    <string name="botplayerpoints">botPlayerPoints</string>
+    <string name="gameresult">gameResult</string>
+    <string name="resultimage">resultImage</string>
+</resources>

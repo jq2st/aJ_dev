@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab Two Widget</string>
+    <string name="appwidget_text">Изменить текст</string>
+    <string name="add_widget">Add widget</string>
+    <string name="settings">Настройки</string>
+    <string name="settings__text_color">Цвет текста</string>
+    <string name="settings__text">Текст заметки</string>
+    <string name="ok">Применить</string>
+    <string-array name="spinner_colors">
+        <item>Чёрный</item>
+        <item>Красный</item>
+        <item>Зелёный</item>
+        <item>Жёлтый</item>
+    </string-array>
+</resources>

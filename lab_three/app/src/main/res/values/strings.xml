@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab Three Photoeditor</string>
+    <string name="make_photo">Сделать Фото</string>
+    <string name="save_file">Сохранить</string>
+</resources>
