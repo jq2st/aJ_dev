@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab Four Contacts</string>
+    <string name="title_contacts">Контакты</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="phone">Телефон</string>
+    <string name="add">Добавить</string>
+    <string name="remove">Удалить</string>
+    <string name="save">Сохранить</string>
+    <string name="new_contact">Новый Контакт</string>
+</resources>
